@@ -6,7 +6,7 @@ Make sure this folder contains these two files:
 Our versions of these two files can be downloaded here from .       
 
 **Releases**:     
-https://github.com/npatta01/web-deep-learning-classifier/releases  
+https://github.com/Arkaprabha1012/web-deep-learning-classifier-master/releases 
 
-`wget https://github.com/npatta01/web-deep-learning-classifier/releases/download/v1.0.1/classes.txt`  
-`wget https://github.com/npatta01/web-deep-learning-classifier/releases/download/v1.0.1/model.pkl`
+`wget https://github.com/Arkaprabha1012/web-deep-learning-classifier-master/releases/download/v1.0.1/classes.txt`  
+`wget https://github.com/Arkaprabha1012/web-deep-learning-classifier-master/releases/download/v1.0.1/model.pkl`
